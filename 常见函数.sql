@@ -12,6 +12,34 @@
 	如：concat,length,ifnull等
 	2、分组函数
 	功能：做统计使用，有称为统计函数，聚合函数，组函数
+常见函数：
+	字符函数：
+	length
+	concat
+	substr
+	instr
+	trim
+	upper
+	lpad
+	rpad
+	replace
+	
+	数学函数：
+	round
+	ceil
+	floor
+	truncate
+	mod
+	
+	其他函数
+	version
+	database
+	user
+	
+	控制函数
+	
+	if
+	case
 */
 
 # 一、字符函数
